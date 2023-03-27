@@ -1,0 +1,4 @@
+ID,Construction,U-Factor with Film [W/m2-K],U-Factor no Film [W/m2-K],Gross Area [m2],Parent Surface
+14126_WALL_5_0_0_0_0_1_DOOR,9,2.995,5.429,5.82,14126_WALL_5_0_0
+14207_WALL_5_0_0_0_0_0_DOOR,9,2.995,5.429,2.11,14207_WALL_5_0_0
+14229_WALL_2_0_0_0_0_0_DOOR,9,2.995,5.429,2.02,14229_WALL_2_0_0

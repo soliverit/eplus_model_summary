@@ -1,0 +1,15 @@
+ID,Electricity [kWh],Natural Gas [kWh],Gasoline [kWh],Diesel [kWh],Coal [kWh],Fuel Oil No 1 [kWh],Fuel Oil No 2 [kWh],Propane [kWh],Other Fuel 1 [kWh],Other Fuel 2 [kWh],District Cooling [kWh],District Heating [kWh],Water [m3]
+Heating,0,0,0,0,0,0,0,0,0,0,0,8136.89,0
+Cooling,0,0,0,0,0,0,0,0,0,0,941.11,0,0
+Interior Lighting,11579.84,0,0,0,0,0,0,0,0,0,0,0,0
+Exterior Lighting,0,0,0,0,0,0,0,0,0,0,0,0,0
+Interior Equipment,7621.05,5716.6,0,0,0,0,0,0,0,0,0,0,0
+Exterior Equipment,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fans,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pumps,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heat Rejection,0,0,0,0,0,0,0,0,0,0,0,0,0
+Humidification,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heat Recovery,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water Systems,0,0,0,0,0,0,0,0,0,0,0,1453.65,22.76
+Refrigeration,0,0,0,0,0,0,0,0,0,0,0,0,0
+Generators,0,0,0,0,0,0,0,0,0,0,0,0,0
